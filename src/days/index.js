@@ -1,5 +1,5 @@
-import day20260721 from "./2026-07-21.js";
-import day20260722 from "./2026-07-22.js";
+import day20260721 from "./2026-07-21.js?v=20260722c";
+import day20260722 from "./2026-07-22.js?v=20260722c";
 
 export const days = {
   [day20260721.id]: day20260721,
